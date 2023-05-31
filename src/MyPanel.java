@@ -16,5 +16,6 @@ public class MyPanel extends JPanel {
         super.paint(g);
         //填充矩形,默认黑色
         g.fillRect(0,0,1000,750);
+        System.out.println("韩顺平");
     }
 }
